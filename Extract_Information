@@ -1,0 +1,23 @@
+Extract the specified , provided as a comma-separated list, from the provided with precision, paying special attention to preserving currency values.
+Flatten the hierarchy of entities, listing them at the same level in the output. Normalize entities to their respective data types, such as strings for text, numbers for quantities, and ISO 8601 format for dates.
+For currency values, include the numerical amount along with the currency symbol or code to maintain the value's context. 
+Adapt to multilingual content, accurately extract quantities with units, and ensure the integrity of cross-referenced data. 
+For each entity, especially currency, ensure that the JSON output accurately reflects the value with its currency symbol or code, and represents other data types appropriately.
+
+For example:
+
+{
+
+""extracted_data"": {
+
+""[entityToBeExtracted1]"": {""value"": [extracted value], ""type"": ""[data type]""},
+
+""[entityToBeExtracted2]"": {""value"": [extracted value], ""type"": ""[data type]""},
+
+// Continue listing additional entities with their values and data types
+
+...
+
+}
+
+}
