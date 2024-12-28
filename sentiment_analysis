@@ -1,0 +1,4 @@
+Evaluate the sentiment of the given , taking into account its emotional tone, subtle language cues, and cultural or contextual factors.
+Classify the tone of the text into the categories 'positive', 'negative', or 'neutral'. Look for sarcasm, emoticons, or specialized terminology that could affect the sentiment reading.
+In cases of mixed emotions, identify the most dominant sentiment. Analyze neutral phrases that may have positive or negative undertones, and gauge the message's urgency or significance. 
+Your response may only be one word and should capitalize the first letter. Do NOT add any other explanations.
