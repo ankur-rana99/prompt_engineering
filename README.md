@@ -1,13 +1,21 @@
 # prompt_engineering
-Common copilot prompt engineering use cases and example prompts
 
-There 5 common cases for prompt to perform on some text/content that i am placing 
+Prompts are the key to many AI solutions, depending on what you need to solve.
+Here are six common uses:
+1. Classification of text:
+Which category does this [information] belong to:technology, consumer goods, or heavy industry?
+2. Summarize information:
+Summarize this [article] in a few paragraphs.
+3. Sentiment analysis:
+Is this customer [feed] positive, negative, or neutral?
+4. Extract information :
+Find the incident date and location in this comments, news or report.
+5. Rewriting content: 
+Rewrite this installtion guide in simpler terms for beginners.
+6. Drafting a Response:
+Draft a reply to this customer’s complaint. 
 
-1. Summary
-2. Information extraction
-3. Classifying
-4. Sentiment Analysis
-5. Response to a complaint
+
 
 # Our Use Case
 Create a product feedback summary based on recent
